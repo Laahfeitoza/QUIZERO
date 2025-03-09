@@ -1,2 +1,0 @@
-# QUIZERO
- QUIZ TESTE
